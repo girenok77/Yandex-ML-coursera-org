@@ -1,1 +1,1 @@
-# Yandex-ML-coursera-org
+Yandex ML courses(https://www.coursera.org/specializations/machine-learning-data-analysis)
